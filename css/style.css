@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.blueText {
+    color: blue!important;
+}
+
+.nicetitle {
+    display : flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#title {
+    color: pink;
+    background-color: blue;
+    font-variant: small-caps;
+    border-radius: 50px;
+    border: orchid;
+}
+
+.list-elements {
+    color: plum;
+    background-color: purple;
+    list-style-type: none;
+}
+
+.lorem {
+    color: salmon;
+    background-color: black;
+}
+
+.maSuperClasse {
+    color: white!important;
+    background-color: greenyellow!important;
+    font-variant: small-caps;
+    border-radius: 50px;
+}
+
+.monUl {
+    background-color:white;
+    border: 10px palevioletred dotted;
+}
+
+.visibility {
+    display: none;
+}
+
+
